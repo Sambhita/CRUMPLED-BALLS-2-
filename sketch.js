@@ -35,9 +35,9 @@ function draw(){
 	ground.display();
     ball.display();
     bin.display();
-	lineL.display();
-    lineR.display();
-    lineB.display();
+	//lineL.display();
+    //lineR.display();
+    //lineB.display();
       
     drawSprites();
 }
